@@ -34,6 +34,7 @@ This is a simple **console-based Tic-Tac-Toe game** developed in Java. It allows
 
    java Game
 
+<img width="932" height="807" alt="Tic" src="https://github.com/user-attachments/assets/752fd453-634b-4f80-8754-47e9c8e8f074" />
 
 
 
